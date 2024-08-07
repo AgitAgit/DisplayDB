@@ -1,0 +1,7 @@
+Display the film and customer tables contents.
+
+Button to switch tables.
+
+Scroll handle
+
+Search option? later
